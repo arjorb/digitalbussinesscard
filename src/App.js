@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <div className=''>
-      <h1 className='text-3xl font-bold underline'>Setting Up the environment</h1>
-    </div>
-  );
+  return <div className='w-64 h-full bg-gray-900 pb-5 rounded-lg'></div>;
 }
 
 export default App;
