@@ -4,7 +4,7 @@ const Info = () => {
   return (
     <>
       <div>
-        <img src='./Rectangle.png' alt='Profile Picture' className='w-full h-[200px]' />
+        <img src='./Rectangle.png' alt='Profile Picture' className='w-full h-[250px] object-cover' />
         <div className='text-center py-4'>
           <h1 className='text-2xl font-bold tracking-wider'>Laura Smith</h1>
           <p className='text-md font-normal text-[#F3BF99]'>Frontend Developer</p>
