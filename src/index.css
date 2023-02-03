@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gray-800 text-white flex justify-center items-center h-screen;
+  @apply bg-gray-800 text-white flex justify-center mt-6;
 }

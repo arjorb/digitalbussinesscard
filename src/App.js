@@ -4,7 +4,7 @@ import Info from './components/Info';
 import Interests from './components/Interests';
 function App() {
   return (
-    <div className='w-[320px] h-full bg-gray-900 rounded-lg overflow-hidden'>
+    <div className='w-[320px] bg-gray-900 rounded-lg overflow-hidden'>
       <Info />
       <About />
       <Interests />
